@@ -1,0 +1,12 @@
+google-cloud-speech
+numpy==2.2.3
+protobuf==5.29.3
+PyAudio==0.2.14
+PyAudioWPatch==0.2.12.7
+nltk
+sentence-transformers
+langchain
+langchain-community
+faiss-cpu
+pydantic
+pytest
